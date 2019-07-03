@@ -1,4 +1,4 @@
-# v1.chriskrycho.com
+# v2.chriskrycho.com
 
 The version of my website that was live in 2011, archived as v1.chriskrycho.com for a semi-permanent record. (You know, until the hosting goes offline!)
 
